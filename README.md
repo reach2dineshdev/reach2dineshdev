@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dinesh-fullstackwebdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-fullstackwebdeveloper" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=reach2dineshdev&label=Profile%20views&color=0e75b6&style=flat" alt="reach2dineshdev" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+Welcome+To+Coding+Vibe!;" />
 </h1>
@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
   </div>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm DINESH</h1>
-<h3 align="center"> Passionate Full Stack Developer | HTML5 | CSS3 | JavaScript | J2EE | Proficient in Bootstrap, React.js, Material UI, Spring Boot, and Oracle MySQL Database Management | Ready to Drive Innovative Web Solutions </h3>
+<h3 align="center"> Full Stack Developer | React.js | Spring Boot | MySQL | REST APIs | LLM/RAG Application Development | Building Enterprise-Scale Supply Chain & Transportation Management Solutions </h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
@@ -15,10 +15,10 @@
 
 ## 🙋‍♂️About Me
 
-I am a passionate and dedicated Full Stack Web Developer with a strong foundation in frontend and backend development technologies. Currently exploring new opportunities in the tech industry.
+I am a Full Stack Developer (Trainee Software Engineer) with experience building enterprise-scale supply chain and transportation management applications, now extending into AI-integrated full stack development.
 
-- 🌱 I’m currently learning and improving my skills in full stack development.
-- 💼 Open to job opportunities as a fresher in the field of web development.
+- 🏢 Currently working as a Trainee Software Engineer at TVS Supply Chain Solutions (TVS SCS), Chennai.
+- 🌱 I'm currently learning and improving my skills in LLM/RAG-based application development.
 - 🚀 I love experimenting with new programming languages and frameworks.
 - 🌐 I enjoy contributing to open source projects in my free time.
 - 💡 I delve into algorithmic puzzles for fun and sharpening my problem-solving skills.
@@ -33,31 +33,34 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 ### Frontend Development 🌟
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML -** Crafting structured and semantic web pages.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS -** Styling beautiful, responsive layouts.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> **JavaScript -** Bringing interactivity and dynamic behavior to web pages.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> **JavaScript (ES6+) -** Bringing interactivity and dynamic behavior to web pages.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React.js -** Building modern, component-based user interfaces.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="20"/> **Bootstrap -** Rapidly designing sleek and responsive websites.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="20" /> **Material UI -** React component library that implements Google’s Material Design with accessible, themeable, production-ready components.
-<!-- 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="20"/>**Tailwind CSS -** Creating utility-first, custom-styled applications.
--->
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="20" /> **Material UI -** React component library that implements Google's Material Design with accessible, themeable, production-ready components.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="20"/> **Tailwind CSS -** Creating utility-first, custom-styled applications.
+- **PrimeReact -** Rich UI component library for React applications.
 
 ### Backend Development 💡
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="18"/> **Spring Boot -** Capable of building robust backend services and APIs using the Spring Boot framework.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="18" /> **Java -** high-level, object-oriented, platform-independent programming language used for building secure, robust, and scalable applications.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js -** Writing scalable server-side applications.
-- <img width="20" height="20" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>**Express.js -** Building robust APIs and handling server-side logic.
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="18" /> **Java / J2EE -** high-level, object-oriented, platform-independent programming language used for building secure, robust, and scalable applications.
+- **REST APIs -** Designing and consuming RESTful services.
 
 ### Database Management 📊
-<!--
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22"/> **MongoDB -** Storing and managing data with a NoSQL database.
--->
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="20"/> **MySQL -** Proficient in designing and managing relational databases using MySQL for efficient data handling. 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="20"/> **MySQL -** Proficient in designing and managing relational databases using MySQL for efficient data handling.
+- **Vector Search (pgvector) -** Storing and querying embeddings for similarity search.
+
+### AI / LLM 🤖
+- **OpenAI API -** Integrating LLMs for generation and extraction tasks.
+- **Spring AI / LangChain4j -** Building LLM-powered application logic on the JVM.
+- **Embeddings & Prompt Engineering -** Crafting effective prompts and vector representations.
+- **RAG Architecture -** Designing Retrieval-Augmented Generation pipelines.
 
 ### Tools & Platforms 🛠️
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> **Git & GitHub -** Version control and collaborative development.
+- **Azure DevOps -** Managing CI/CD pipelines and work items.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  width="20"/> **Postman -** Postman is a popular API testing and development tool that simplifies sending requests, inspecting responses, and automating workflows for RESTful APIs.
+- **Figma -** Collaborating on UI/UX design handoffs.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="20"/> **SonarQube -** SonarQube is an open-source platform used for continuous inspection of code quality, detecting bugs, vulnerabilities, and code smells in software projects.
           
 <br>
@@ -97,18 +100,14 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 ## <img width="25" height="25" src="https://img.icons8.com/3d-fluency/25/combo-chart.png" alt="combo-chart"/> GitHub Stats
 
 <div align="center" style="padding:10px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-fullstackwebdeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="dinesh-fullstackwebdeveloper" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=reach2dineshdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="reach2dineshdev" />
 </div>
 <br>
 <div align="center" style="padding:10px;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-fullstackwebdeveloper&theme=dark&hide_border=false" alt="dinesh-fullstackwebdeveloper" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reach2dineshdev&theme=dark&hide_border=false" alt="reach2dineshdev" />
 </div>
 <br>
 <br>
-
-<!-- ![Snake animation](https://raw.githubusercontent.com/dinesh-fullstackwebdeveloper/dinesh-fullstackwebdeveloper/output/snake.svg) -->
-
-<!-- ![Pacman contribution graph](https://raw.githubusercontent.com/dinesh-fullstackwebdeveloper/dinesh-fullstackwebdeveloper/output/pacman-contribution-graph.svg) -->
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -118,10 +117,9 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 
 <div align="center">
     
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-fullstackwebdeveloper/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balakrishnandinesh16@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/royal_dinesh_16)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dinesh-fullstackwebdeveloper.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reach2dinesh-dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reach2dinesh.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reach2dineshdev)
 
 </div>
 
@@ -139,9 +137,3 @@ I am a passionate and dedicated Full Stack Web Developer with a strong foundatio
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-
-
-
-
-
-
